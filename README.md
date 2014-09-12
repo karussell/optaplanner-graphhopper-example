@@ -1,7 +1,9 @@
 # OptaPlanner with GraphHopper precalculated routes
 
 Open project and execute Main.main method and see the Vehicle Routing Plan problem solved by
-GraphHopper and Optaplanner.
+GraphHopper and Optaplanner. Currently not working with OptaPlanner.
+
+Geoffrey did [blogged about it](http://www.optaplanner.org/blog/2014/09/02/VehicleRoutingWithRealRoadDistances.html) recently and created [this repo](https://github.com/ge0ffrey/vrp-dataset-generator).
 
 ## Usage
 
